@@ -10,3 +10,5 @@ C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignmen
 C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.Form3.resources
 C:\Users\Administrator\Desktop\10thAugust\Assignment14\Assignment14\obj\x86\Debug\Assignment14.exe
 C:\Users\Administrator\Desktop\10thAugust\Assignment14\Assignment14\obj\x86\Debug\Assignment14.pdb
+C:\Users\Administrator\Documents\GitHub\Assignment14\Assignment14\obj\x86\Debug\Assignment14.exe
+C:\Users\Administrator\Documents\GitHub\Assignment14\Assignment14\obj\x86\Debug\Assignment14.pdb
