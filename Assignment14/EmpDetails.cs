@@ -10,13 +10,7 @@ namespace Assignment14
 {
     class EmpDetails
     {
-        string empName;
-
-        public string EmpName
-        {
-            get { return empName; }
-            set { empName = value; }
-        }
+        
         int age;
 
         public int Age
@@ -61,6 +55,13 @@ namespace Assignment14
         }
 
         int empId;
+        string empName;
+
+        public string EmpName
+        {
+            get { return empName; }
+            set { empName = value; }
+        }
 
 
         public int EmpId
@@ -100,7 +101,9 @@ namespace Assignment14
             return result ;
         }
 
-
+           public void menu()
+           {
+           }
 
            public ArrayList GetEmpID()
            {
