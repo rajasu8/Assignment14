@@ -10,13 +10,6 @@ namespace Assignment14
 {
     class EmpDetails
     {
-        int empId;
-
-        public int EmpId
-        {
-            get { return empId; }
-            set { empId = value; }
-        }
         string empName;
 
         public string EmpName
@@ -65,6 +58,15 @@ namespace Assignment14
         {
             get { return address; }
             set { address = value; }
+        }
+
+        int empId;
+
+
+        public int EmpId
+        {
+            get { return empId; }
+            set { empId = value; }
         }
 
            public int  getDetails(int id,string name, int age, string gender,string location,long mobile , string mail,string address)
