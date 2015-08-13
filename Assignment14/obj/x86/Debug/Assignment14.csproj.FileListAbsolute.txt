@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\bin\Debug\Assignment14.exe
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\bin\Debug\Assignment14.pdb
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.Form1.resources
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.exe
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.pdb
+C:\Users\Administrator\Desktop\Assignment14\Assignment14\obj\x86\Debug\Assignment14.Form3.resources
+C:\Users\Administrator\Desktop\10thAugust\Assignment14\Assignment14\obj\x86\Debug\Assignment14.exe
+C:\Users\Administrator\Desktop\10thAugust\Assignment14\Assignment14\obj\x86\Debug\Assignment14.pdb
